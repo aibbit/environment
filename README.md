@@ -1,11 +1,11 @@
 # environment
 
 ## 生产力
-IDE:VScode
-EDA:KiCad
-3Ddesign:FreeCad
+IDE:VScode<br>
+EDA:KiCad<br>
+3Ddesign:FreeCad<br>
 
 ## debian桌面
-ly
-i3-gap
-polybar
+ly<br>
+i3-gap<br>
+polybar<br>
