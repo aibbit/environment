@@ -10,5 +10,10 @@ drawio<br>
 
 ## Debian桌面
 ly<br>
+
 i3-gap<br>
+rxvt-unicode<br>
+picom<br>
+dunst<br>
+
 polybar<br>
