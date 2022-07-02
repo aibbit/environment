@@ -4,9 +4,10 @@
 IDE:VScode<br>
 EDA:KiCad<br>
 MCad:FreeCad<br>
+数学计算：Maxima，Scilab,Octave<br>
 
 ## 绘图
-drawio<br>
+Drawio<br>
 
 ## Debian桌面
 ly<br>
